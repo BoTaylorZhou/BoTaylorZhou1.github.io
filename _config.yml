@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Bo Zhou"
 description              : "Traffic and transportation Rational inattention Machine learning"
-repository               : ""
+repository               : "BoTaylorZhou.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
