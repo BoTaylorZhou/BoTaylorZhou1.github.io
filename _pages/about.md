@@ -30,7 +30,7 @@ I'm a professor of [School of Mathematics and Statistics](http://math.cqjtu.edu.
 - *2013.09 - 2016.06*, Applied Mathematics, [School of Electronic and Information Engineering](https://ceie.swu.edu.cn/), [Southwest University](https://www.swu.edu.cn/), **Doctor of Philosophy**, Supervised by Prof. [Xiaofeng Liao](https://scholar.google.com/citations?user=VpAZWLIAAAAJ&hl=en).
 
 # ⚽️ Career
-I have visited Texas A&M University at Qatar for three months when working toward the PhD. Since *2016.07*, I have jointed [School of Mathematics and Statistics](http://math.cqjtu.edu.cn/), [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/), and have worked here up till now. During working at CQJTU, I have visited [University of Leeds](https://www.leeds.ac.uk/) for one year.
+I have visited Texas A&M University at Qatar for three months when working toward the PhD. Since *2016.07*, I have jointed [School of Mathematics and Statistics](http://math.cqjtu.edu.cn/), [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/), and have worked here up till now. When working at CQJTU, I have visited [University of Leeds](https://www.leeds.ac.uk/) for one year.
 
 ## 🤝 Visiting Experience
 - *2014.11 - 2015.01*, Science Program, Texas A&M University at Qatar, Collaborate with Prof. [Tingwen Huang](https://scholar.google.com/citations?user=NNJBCaAAAAAJ&hl=en).
@@ -85,6 +85,7 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
 
