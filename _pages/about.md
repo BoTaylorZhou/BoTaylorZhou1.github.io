@@ -26,7 +26,7 @@ I'm a professor of School of Mathematics and Statistics, Chongqing Jiaotong Univ
 
 # 📖 Educations
 - *2006.09 - 2010.06*, Mathematics and Applied Mathematics, School of Science, Chongqing Jiaotong University, **Bachelor of Science**. 
-- *2010.09 - 2013.06*, Computer Science, School of Information Science and technology, Chongqing Jiaotong University, **Master of Engineering**, Supervised by Prof. Qiankun Song.
+- *2010.09 - 2013.06*, Computer Science, School of Information Science and Technology, Chongqing Jiaotong University, **Master of Engineering**, Supervised by Prof. Qiankun Song.
 - *2013.09 - 2016.06*, Applied Mathematics, School of Electronic Information Engineering, Southwest University, **Doctor of Philosophy**, Supervised by Prof. Xiaofeng Liao.
 
 # ⚽️ Career
@@ -85,6 +85,7 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
 
