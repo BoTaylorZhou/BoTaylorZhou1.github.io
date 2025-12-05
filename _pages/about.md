@@ -57,7 +57,7 @@ I'm a professor of School of Mathematics and Statistics, Chongqing Jiaotong Univ
 - [A generalized rationally inattentive route choice model with nonuniform marginal information costs](https://www.sciencedirect.com/science/article/pii/S0191261524001176). **Bo Zhou**, Ronghui Liu, Transportation Research Part B, *2024*. 
   - "**Zhou and Liu 2024** applies the theory of rational inattention in modelling traveler’s route choice behavior, to reflect the dichotomy of the effects of a wealth of information on travelers: it can support decision- making but can also lead to inattention and inability to make the best use of information" in **Innovations in transportation modeling** by [Zhang, Yin and Liu](https://www.sciencedirect.com/science/article/pii/S0191261524002273).
 
-# 💬 Conference Papers
+# 💬 Conference Talks
 - *2019.09*, **Bo Zhou (Presenter)**, Yuefei Yuan; Huiwei Wang. [Planning PEV fast-charging stations: A data-driven distributionally robust optimization approach](https://ieeexplore.ieee.org/document/9115433). 2019 International Conference on Information, Cybernetics, and Computational Social Systems (ICCSS), Chongqing, China.
 - *2021.05*, **Xiwen Bao (Presenter)**, Bo Zhou, Huiwei Wang. [Distributed event-triggered projection subgradient algorithm over unbalanced digraphs based on row-stochastic matrices](https://ieeexplore.ieee.org/document/9440630). 11th International Conference on Information Science and Technology (ICIST), Chengdu, China.
 - *2021.10*, **Wei Chen (Presenter)**, Bo Zhou, Huiwei Wang. [On controllability of transportation networks with fractional-order dynamics](https://ieeexplore.ieee.org/document/9607949). 2021 International Conference on Neuromorphic Computing (ICNC), Wuhan, China.
@@ -82,4 +82,5 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
