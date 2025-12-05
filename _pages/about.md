@@ -22,7 +22,7 @@ redirect_from:
 I'm a professor of School of Mathematics and Statistics, Chongqing Jiaotong University. Currently, my research interest includes AI for Transport and AI for rational inattention. In the past, I have conducted research in the area of stability theory of neural networks, event-triggered control and distributed optimization. I am very fortunate to be supervised by Prof. Qiankun Song in Computer Science, Chongqing Jiaotong University, and Prof. Xiaofeng Liao in Applied Mathemtics, Southwest University. I am also very fortunate to visit Prof. Tingwen Huang in Science Progam, Texas A&M University at Qatar and Prof. Ronghui Liu in Institute of Transport Studies, University of Leeds. 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Excited to share that our work, A generalized rationally inattentive route choice model with nonuniform marginal information costs, co-authored with Prof. Ronghui Liu, is accepted by **ISTTT25** and published in **Transportation Research Part B**!
+- *2024.07*: &nbsp;🎉🎉 Excited to share that our work, A generalized rationally inattentive route choice model with nonuniform marginal information costs, co-authored with Prof. Ronghui Liu, is presented (podium) in **ISTTT25** and published in **Transportation Research Part B**!
 
 # 📖 Educations
 - *2006.09 - 2010.06*, Mathematics and Applied Mathematics, School of Science, Chongqing Jiaotong University, Bachelor of Science. 
@@ -82,6 +82,7 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
 
