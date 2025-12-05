@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Bo Zhou"
-description              : "AI-enhanced Transport <br> AI-enhanced Rational inattention"
+description              : "AI for Transport <br> AI for Rational Inattention"
 repository               : "BoTaylorZhou.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
