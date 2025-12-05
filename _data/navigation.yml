@@ -9,11 +9,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Visiting Experience"
-    url: "/#-visiting-experience"
-
-  - title: "Working Experience"
-    url: "/#-working-experience"
+  - title: "Career"
+    url: "/#-career"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -26,6 +23,7 @@ main:
 
   - title: "Contact With me"
     url: "/#-contact-with-me"
+
 
 
 
