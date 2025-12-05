@@ -60,7 +60,7 @@ I have visited Texas A&M University at Qatar for three months when working towar
 - [A generalized rationally inattentive route choice model with nonuniform marginal information costs](https://www.sciencedirect.com/science/article/pii/S0191261524001176). **Bo Zhou**, Ronghui Liu, Transportation Research Part B, *2024*. 
   - "**Zhou and Liu 2024** applies the theory of rational inattention in modelling traveler’s route choice behavior, to reflect the dichotomy of the effects of a wealth of information on travelers: it can support decision- making but can also lead to inattention and inability to make the best use of information" in **Innovations in transportation modeling** by [Zhang, Yin and Liu](https://www.sciencedirect.com/science/article/pii/S0191261524002273).
 
-# 💬 Conference Talks
+# 💬 Conference Papers
 - *2011.05*, Yupei Lv, **Bo Zhou (Presenter)**, Qiankun Song. [Stability of neural networks with both impulses and time-varying delays on time scale](https://link.springer.com/chapter/10.1007/978-3-642-21105-8_25). 8th International Symposium on Neural Networks (ISNN), Guilin, China.
 - *2019.09*, **Bo Zhou (Presenter)**, Yuefei Yuan, Huiwei Wang. [Planning PEV fast-charging stations: A data-driven distributionally robust optimization approach](https://ieeexplore.ieee.org/document/9115433). 2019 International Conference on Information, Cybernetics, and Computational Social Systems (ICCSS), Chongqing, China.
 - *2019.12*, Huiwei Wang, **Yong Zhao (Presenter)**, Qingya Wang, Bo Zhou. [Latent factor models fusing user & item attributes](https://ieeexplore.ieee.org/document/9002724). 2019 IEEE Symposium Series on Computational Intelligence (SSCI), Xiamen, China.
@@ -87,6 +87,7 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
 
