@@ -29,11 +29,14 @@ I'm a professor of School of Mathematics and Statistics, Chongqing Jiaotong Univ
 - *2010.09 - 2013.06*, Computer Science, School of Information Science and technology, Chongqing Jiaotong University, Master of Engineering, Supervised by Prof. Qiankun Song.
 - *2013.09 - 2016.06*, Applied Mathematics, School of Electronic Information Engineering, Southwest University, Doctor of Philosophy, Supervised by Prof. Xiaofeng Liao.
 
-# 🤝 Visiting Experience
+# ⚽️ Career
+I have visited the Texas A&M University at Qatar (for three months) and University of Leeds (for one year). Since *2016.07*, I have jointed School of Mathematics and Statistice, Chongqing Jiaotong University, and have worked here up till now.
+
+## 🤝 Visiting Experience
 - *2014.11 - 2015.01*, Science Program, Texas A&M University at Qatar, Collaborate with Prof. Tingwen Huang.
 - *2022.11 - 2023.11*, Institute for Transport Studies, University of Leeds, Collaborate with Prof. Ronghui Liu.
 
-# 💻 Working Experience
+## 💻 Working Experience
 - *2016.07 -*, School of Mathematics and Statistice, Chongqing Jiaotong University.
 
 # 🎖 Honors and Awards
@@ -69,7 +72,7 @@ I'm a professor of School of Mathematics and Statistics, Chongqing Jiaotong Univ
 - *2024.07*, Bo Zhou, **Ronghui Liu (Presenter)**. [A generalized rationally inattentive route choice model with nonuniform marginal information costs](https://limos.engin.umich.edu/isttt25/). 25th International Symposium on Transportation and Traffic Theory (ISTTT25), Ann Arbor, Michigan, USA. 
 - *2025.06*, **Bo Zhou (Presenter)**, Ronghui Liu. [Rationally inattentive route choice: A link-based model](https://tristan2025.org/proceedings/TRISTAN2025_ExtendedAbstract_493.pdf). 12th Triennial Symposium on Transportation Analysis, Okinawa, Japan.
 
-# 🚀 Contact With me
+# 🚀 Contact me
 Whether you’re an researcher or a student, I’d love to hear from you. I'm always open to new ideas, collaborations, and conversations about shaping the future of AI for transport and AI for rational inattention.
 
 ## 💡 Research & Proposals
@@ -82,6 +85,7 @@ I offer tailored presentations, workshops, and guest lectures for academic audie
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
 
