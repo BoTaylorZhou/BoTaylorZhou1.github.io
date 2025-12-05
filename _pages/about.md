@@ -73,11 +73,10 @@ I'm a professor of School of Mathematics and Statistics, Chongqing Jiaotong Univ
 Whether you’re an industry partner, researcher, or student, We’d love to hear from you. We're always open to new ideas, collaborations, and conversations about shaping the future of next-generation mobility system.
 
 ## 💡 Research & Proposals
-I have completed two research projects:
+I have completed a research project:
 - Design and analysis of distributed optimization algorithm based on event-triggered mechanism, 61803056, granted by National Nature Science Foundation of China, *2019.01-2021.12*.
--	Design and analysis of distributed optimization algorithm for large scale systems, cstc2018jcyjAX0365, granted by Nature Science Foundation of Chongqing, *2018.08-2021.07*.
   
-We welcome opportunities to co-develop research projects and grant proposals that connect academic insights with real-world impact.
+I welcome opportunities to co-develop research projects and grant proposals that connect academic insights with real-world impact.
 
 ## 🎤 Talks & Workshops
 We offer tailored presentations, workshops, and guest lectures for academic, civic, and industry audiences on next-generation mobility systems.
@@ -86,6 +85,7 @@ We offer tailored presentations, workshops, and guest lectures for academic, civ
 Feel free to reach out anytime:
 
 📧 Email: bzhou@cqjtu.edu.cn
+
 
 
 
